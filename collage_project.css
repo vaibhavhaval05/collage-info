@@ -1,0 +1,95 @@
+ body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(#ac1b7b, #4ed0e1);
+            color: #333;
+        }
+#home
+{
+    background-color: rgb(250, 254, 253);
+    padding: 5%;
+    margin: 10%;
+    box-shadow: 0 0 50px rgba(22, 19, 19, 0.897);
+    border-radius: 12px;
+}
+#about
+{
+    
+    padding: 5%;
+    margin: 10%;
+    background-color: rgb(243, 241, 239);
+    box-shadow: 0 0 50px rgba(22, 19, 19, 0.897);
+    border-radius: 12px;
+}
+#collage
+{
+    background-color: rgb(245, 245, 246);
+    padding: 5%;
+    margin: 10%;
+    box-shadow: 0 0 50px rgba(22, 19, 19, 0.897);
+    border-radius: 12px;
+}
+#contact
+{
+    background-color: rgb(252, 252, 250);
+    padding: 5%;
+    margin: 10%;
+    box-shadow: 0 0 100px rgba(22, 19, 19, 0.897);
+    border-radius: 12px;
+}
+
+     
+
+        section {
+            padding: 5%;
+            margin: 5% 10%;
+            box-shadow: 0 0 50px rgba(22, 19, 19, 0.897);
+            border-radius: 12px;
+            background-color: #fff;
+        }
+
+        nav {
+            background-color: #9fc2b8;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #000;
+        }
+
+        h1, h2, h3, h4 {
+            text-align: center;
+            color: #000;
+        }
+
+        p {
+            text-align: center;
+            font-size: 1.1rem;
+        }
+
+        ul, ol {
+            margin-left: 20px;
+        }
+
+        table {
+            margin: 0 auto;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 6px;
+        }
+
+        input[type="submit"]
+        input[type="reset"] {
+            padding: 8px 16px;
+            margin: 10px;
+            font-weight: bold;
+        }
